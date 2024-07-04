@@ -1,0 +1,69 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #d8d5ce;
+}
+
+.box-1,
+.box-2 {
+  height: 316px;
+  width: 315px;
+}
+
+
+
+.temp-value-container {
+  min-height: 72%;
+  border: 2px solid;
+  background-color: rgb(142, 159, 159);
+  background-color: #E6B9A6;
+}
+
+.input-city-box {
+  width: 100%;
+  height: 35px;
+  padding: 2px;
+  background-color: #d8d5ce;
+  border-top: 0px solid gray;
+  border-right: 0px solid gray;
+  border-bottom: 1px solid gray;
+  border-left: 0px solid gray;
+}
+
+.input-city-box:focus {
+  outline: 2px solid #6295A2;
+  border: none;
+}
+
+.location-box {
+  font-size: 35px;
+}
+
+.hilight-value-box{
+  height: 150px;
+  width: 150px;
+}
+
+.icons{
+  width: 70px;
+  height: 68px;
+}
+
+.heading-name{
+  font-family: "Playwrite GB S", cursive;
+  font-weight: bolder;
+  color: #F4A261;
+}
+.bg-color{
+  background-color:#6295A2 ;
+}
+.data-not-found-message {
+  margin-top: 35%;
+}
