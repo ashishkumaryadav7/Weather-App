@@ -1,5 +1,8 @@
 # Weather App
 deployment-link: https://ashishkumaryadav7.github.io/Weather-App/
+
+![Screenshot (135)](https://github.com/user-attachments/assets/eee0d13e-d0f9-49ea-9feb-7dcfd014f7cd)
+
 ## Overview
 This Weather App is a React.js project that provides real-time weather data for a specified location. The app uses a real-time weather API to fetch current weather information and employs the Context API to efficiently share data between components. The app displays temperature in degrees Celsius along with key weather metrics such as Wind Status, Humidity, Visibility, and Air Pressure.
 
